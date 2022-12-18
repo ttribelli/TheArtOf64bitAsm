@@ -1,0 +1,6 @@
+.DS_Store
+*.o
+a.out
+hello-macx64
+hello-linx64
+
